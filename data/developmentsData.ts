@@ -23,7 +23,7 @@ export const developments = [
   },
   {
     id: 2,
-    title: "Diamond Mall & Residency",
+    title: "Lanmark Peshawar",
     category: "Mixed-Use",
     location: "University Road, Peshawar",
     price: "Contact for Price",
